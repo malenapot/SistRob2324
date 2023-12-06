@@ -11,4 +11,5 @@ untitled.slx.autosave
 **/.m~
 **/.autosave
 .DS_Store
+*.DS_Store
 *.autosave
