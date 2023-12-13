@@ -1,0 +1,41 @@
+STEP translation to Solid Edge
+Date: Dienstag,Juli 18,2023 11:26
+Source File: C:\Studium\EU4M\Fin_De_Master\CAD\Lego\lego2x4_black.stp
+Author: TraceParts
+Organization: TraceParts S.A.
+Source System:  
+
+Hardware:
+Processor: AMD Ryzen 5 5600H with Radeon Graphics         
+Operating System: Windows 10 Professional
+Installed Memory: 31.36 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Studium\EU4M\Fin_De_Master\CAD\Lego
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 01

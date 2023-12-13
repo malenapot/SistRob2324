@@ -1,0 +1,181 @@
+STEP translation to Solid Edge
+Date: Mittwoch,Mai 17,2023 12:33
+Source File: C:\Studium\EU4M\Fin_De_Master\CAD\Intel_RealSense_L515_CAD_external.stp
+Author: wkho
+Organization: INTEL
+Source System: CREO PARAMETRIC BY PTC INC, 2019080
+
+Hardware:
+Processor: AMD Ryzen 5 5600H with Radeon Graphics         
+Operating System: Windows 10 Professional
+Installed Memory: 31.36 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.92
+Solid Edge Version: 222.00.00.132 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Studium\EU4M\Fin_De_Master\CAD
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\Intel_RealSense_L515_CAD_external.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\TA_PERIPHERAL_L515_ASM_25_ASM.asm
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\CENTER_HEAT_SINK_SUBASM_L515_AS_ASM.asm
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\OPTICAL_HEAD_GEN_1_L515_ASM_6_ASM.asm
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\RXFOV_72X60_P_040419_2.par
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\TX_FOV_1_2_73X59_040419_2.par
+|  |  |--+Total Parts: 4
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 4
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |--+Total Parts: 1
+|  |--+Assemblies: 1
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\FRONT_OPTICAL_ASSEMBLY_L515_ASM_ASM.asm
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\CAMERA_2MP_FF_OV2740_CMOS_ASM_1_ASM.asm
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\L500_RGB_2MP_1_2_2.par
+|  |  |--+Total Parts: 2
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 2
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\PCB_ASSY_RGB_INTERPOSER_L515_AS_ASM.asm
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\RGB_INTERPOSER_AS03021_23AUG_7.par
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\KAPTON_RGB_INTERPOSER_L515_8.par
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\CONN_FPC_BTM_21POS_-3MM_PITCH_2.par
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\CONN_HEADER_3-0MM_20POS_PWR_2.par
+|  |  |--+Total Parts: 8
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 8
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |--+Total Parts: 2
+|  |--+Assemblies: 2
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\PCB_ASSEMBLY_MA_ASIC_L515_ASM_5_ASM.asm
+|  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\BM03B-SRSS-TB_1.par
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\L500_PCB_ASIC_BOARD_OCT08_ASM_1_ASM.asm
+|  |  |  |--+Begin Assembly: 5
+|  |  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\A-PCB_ASIC_20_ASM_1_ASM_1_ASM.asm
+|  |  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\P-PCB_ASIC_20_1_3.par
+|  |  |  |  |--+Begin Assembly: 6
+|  |  |  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\2UB2C02-000111F_3D_USB_TYPE_C_1_ASM.asm
+|  |  |  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\2UB2C02-000111F_3D_USB_TYPE_C_2.par
+|  |  |  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\2UB2C02-000111F_3D_USB_TYPE_C_3.par
+|  |  |  |  |--+Total Parts: 4
+|  |  |  |  |--+Assemblies: 0
+|  |  |  |  |--+Solid Bodies: 4
+|  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |--+End Assembly: 6
+|  |  |  |--+Total Parts: 3
+|  |  |  |--+Assemblies: 1
+|  |  |  |--+Solid Bodies: 2
+|  |  |  |--+Sheet Bodies: 0
+|  |  |  |--+End Assembly: 5
+|  |  |--+Total Parts: 1
+|  |  |--+Assemblies: 1
+|  |  |--+Solid Bodies: 0
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |--+Total Parts: 3
+|  |--+Assemblies: 1
+|  |--+Solid Bodies: 2
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\REAR_HOUSING_ASSEMBLY_L515_ASM__ASM.asm
+|  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\INTAKE_VENT_L515_9.par
+|  |  |--+Reusing File C:\Studium\EU4M\Fin_De_Master\CAD\INTAKE_VENT_L515_9.par
+|  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\REAR_HOUSING_L515_25.par
+|  |--+Total Parts: 5
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 5
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\COVER_WINDOW_SUBASM_L515_ASM_2_ASM.asm
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\COVER_WINDOW_IR_W_ADHESIVE_L515_ASM.asm
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\COVER_WINDOW_IR_L515_10.par
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\COVER_WINDOW_MASK_L515_10.par
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\COVER_WINDOW_RGB_RING_L515_8.par
+Bodies: 0
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\COVER_WINDOW_INTEL_LOGO_L515_8.par
+Bodies: 0
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\ADHESIVE_COVER_WINDOW_IR_L515_1.par
+|  |  |--+Total Parts: 8
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 8
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\FOAM_ISOLATION_RGB_L515_ASM_15_ASM.asm
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\FOAM_ISOLATION_RGB_L515_13.par
+|  |  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\ADHESIVE_ISOLATION_RGB_L515_11.par
+|  |  |--+Total Parts: 4
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 4
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\COVER_WINDOW_SLOT_FILLER_L515_8.par
+|  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\FOAM_SEALING_CW_FHS_L515_16.par
+|  |--+Total Parts: 6
+|  |--+Assemblies: 2
+|  |--+Solid Bodies: 4
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Studium\EU4M\Fin_De_Master\CAD\AUX_DOOR_ASSEMBLY_L515_ASM_7_ASM.asm
+|  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\AUX_DOOR_L515_8.par
+|  |  |--+Created SE Part File C:\Studium\EU4M\Fin_De_Master\CAD\STEEL_PIN_2.par
+|  |  |--+Reusing File C:\Studium\EU4M\Fin_De_Master\CAD\STEEL_PIN_2.par
+|  |--+Total Parts: 5
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 5
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|--+Total Parts: 6
+|--+Assemblies: 6
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 1
++Assemblies: 1
++Solid Bodies: 0
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 25
