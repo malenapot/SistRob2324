@@ -47,8 +47,8 @@ robot.setJoints(Jrest);
 
 
 
-%% SolveIK: for inverse kinematics
-%para calcular todas las rotaciones conocido el punto objetivo
+%%
+% Creación del programa de movimiento del robot
 
 prog=RDK.AddProgram('My Prog');
 
